@@ -1,0 +1,17 @@
+{
+  "name": "app-01",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "rimraf dist & parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "rimraf": "^5.0.1"
+  }
+}
